@@ -9,14 +9,14 @@
 
 - ੈ✩‧₊˚ reach me at **kaclark219@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">connect w/ me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/katelyn-a-clark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katelyn-a-clark/" height="30" width="40" /></a>
 <a href="https://instagram.com/k8lyncre8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k8lyncre8s" height="30" width="40" /></a>
   <a href="https://www.pinterest.com/mygblvsh/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages & tools:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
