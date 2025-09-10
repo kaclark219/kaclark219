@@ -1,9 +1,9 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [Dahlia Fields: Meet the Basement Dwellers](https://kaclark219.itch.io/dahlia-fields)
+- : ̗̀➛ i’m currently working on [building my own rendering pipeline!]()
 
-- ੈ✩‧₊˚ i’m currently learning **tailwindcss**
+- ੈ✩‧₊˚ i’m currently learning **artificial intelligence search problems**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [https://katelyn-clark-portfolio.vercel.app/](https://katelyn-clark-portfolio.vercel.app/)
 
