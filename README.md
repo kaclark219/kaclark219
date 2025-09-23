@@ -3,7 +3,7 @@
 
 - : ̗̀➛ i’m currently working on [building my own rendering pipeline!]()
 
-- ੈ✩‧₊˚ i’m currently learning **artificial intelligence search problems**
+- ੈ✩‧₊˚ i’m currently learning about **unsuperivsed learning models**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [https://katelyn-clark-portfolio.vercel.app/](https://katelyn-clark-portfolio.vercel.app/)
 
