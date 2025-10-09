@@ -1,11 +1,11 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [building my own rendering pipeline!]()
+- : ̗̀➛ i’m currently working on [building my own rendering pipeline!](https://github.com/kaclark219/2d-rasterization-pipeline)
 
-- ੈ✩‧₊˚ i’m currently learning about **unsuperivsed learning models**
+- ੈ✩‧₊˚ i’m currently learning about **building deep neural networks**
 
-- ˚ ༘♡ ⋆｡˚ all of my projects are available at [https://katelyn-clark-portfolio.vercel.app/](https://katelyn-clark-portfolio.vercel.app/)
+- ˚ ༘♡ ⋆｡˚ all of my projects are available at [k8lyn.dev](https://www.k8lyn.dev/)
 
 - ੈ✩‧₊˚ reach me at **kaclark219@gmail.com**
 
