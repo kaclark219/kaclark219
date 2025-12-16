@@ -1,13 +1,13 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [building my own rendering pipeline!](https://github.com/kaclark219/2d-rasterization-pipeline)
+- : ̗̀➛ i’m currently working on [building my own 3d rendering pipeline!](https://github.com/kaclark219/3d-rasterization-pipeline)
 
-- ੈ✩‧₊˚ i’m currently learning about **building deep neural networks**
+- ੈ✩‧₊˚ i’m currently learning about **modeling the placement & focus of stage lights in VR to duplicate a real world lighting scenario using AI**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [k8lyn.dev](https://www.k8lyn.dev/)
 
-- ੈ✩‧₊˚ reach me at **kaclark219@gmail.com**
+- ੈ✩‧₊˚ reach me at **kaclark219 AT gmail DOT com**
 
 <h3 align="left">connect w/ me:</h3>
 <p align="left">
