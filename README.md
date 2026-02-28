@@ -3,7 +3,7 @@
 
 - : ̗̀➛ i’m currently working on [building my own 3d rendering pipeline!](https://github.com/kaclark219/3d-rasterization-pipeline)
 
-- ੈ✩‧₊˚ i’m currently learning about **modeling the placement & focus of stage lights in VR to duplicate a real world lighting scenario using AI**
+- ੈ✩‧₊˚ i’m currently learning about **inverse rendering techniques to recreate stage lighting using ml**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [k8lyn.dev](https://www.k8lyn.dev/)
 
