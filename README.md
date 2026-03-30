@@ -1,7 +1,7 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [building my own 3d rendering pipeline!](https://github.com/kaclark219/3d-rasterization-pipeline)
+- : ̗̀➛ i’m currently working on [building a cuda ray tracer from scratch!](https://github.com/kaclark219/ray-tracer)
 
 - ੈ✩‧₊˚ i’m currently learning about **inverse rendering techniques to recreate stage lighting using ml**
 
