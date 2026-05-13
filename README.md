@@ -1,9 +1,9 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [building a cuda ray tracer from scratch!](https://github.com/kaclark219/ray-tracer)
+- : ̗̀➛ i’m currently working on [building a tcg collection tracking application](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_155.png)
 
-- ੈ✩‧₊˚ i’m currently learning about **inverse rendering techniques to recreate stage lighting using ml**
+- ੈ✩‧₊˚ i’m currently learning about **beginner golang programming!**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [k8lyn.dev](https://www.k8lyn.dev/)
 
