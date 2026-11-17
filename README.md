@@ -1,9 +1,9 @@
 <h1 align="center">hello (˶˃ ᵕ ˂˶) i'm katelyn</h1>
 <h3 align="center">a full-stack developer with a passion for digital design</h3>
 
-- : ̗̀➛ i’m currently working on [building a tcg collection tracking application](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_155.png)
+- : ̗̀➛ i’m currently working on [my master's capstone in npr gaussian splatting!](https://github.com/kaclark219/controllable-npr-3dgs)
 
-- ੈ✩‧₊˚ i’m currently learning about **process systems!**
+- ੈ✩‧₊˚ i’m currently learning about **ar development!**
 
 - ˚ ༘♡ ⋆｡˚ all of my projects are available at [k8lyn.dev](https://www.k8lyn.dev/)
 
